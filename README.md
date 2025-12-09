@@ -2,6 +2,9 @@
 
 Este é um software de votação digital desenvolvido para facilitar eleições de Grêmio Estudantil, Representantes de Turma e Referendos Escolares. O sistema simula a interface de uma urna eletrônica real, garantindo segurança e facilidade de uso para os alunos.
 
+<img width="1275" height="667" alt="image" src="https://github.com/user-attachments/assets/f8a4a317-134d-4ee7-99c3-4abda04cda02" />
+
+
 <h2>👨‍💻 Sobre o Desenvolvedor</h2>
 
 <p><b>Desenvolvedor:</b> Prof. André Eduardo Gomes</p>
@@ -11,6 +14,8 @@ Este é um software de votação digital desenvolvido para facilitar eleições 
 <h2>🚀 Como Instalar e Rodar</h2>
 
 <b>Opção 1:</b> Arquivo Executável (.exe)
+
+<img width="168" height="30" alt="image" src="https://github.com/user-attachments/assets/665499c6-6d9d-446b-ace6-0a11dcc8cd89" />
 
 <ul>&bull; Se você recebeu o arquivo urna.exe:</ul>
 <ul>&bull; Basta dar dois cliques no arquivo urna.exe.</ul>
