@@ -5,8 +5,8 @@ Este é um software de votação digital desenvolvido para facilitar eleições 
 👨‍💻 Sobre o Desenvolvedor
 
 Desenvolvedor: Prof. André Eduardo Gomes
-Contato/E-mail: andregomes20@gmail.com
-Versão: 3.0 (Windows)
+Contato/E-mail: andre.gomes2004@gmail.com
+Versão: 3.0 (Windows) - 2025
 
 🚀 Como Instalar e Rodar
 
