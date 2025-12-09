@@ -26,6 +26,8 @@ Este é um software de votação digital desenvolvido para facilitar eleições 
 
 <h2>⚙️ Área Administrativa (Configuração)</h2>
 
+<img width="642" height="487" alt="image" src="https://github.com/user-attachments/assets/4ea7ddf1-2182-456c-81bd-8b99b6f3694d" />
+
 <p>Esta área é restrita aos professores ou responsáveis pela eleição.</p>
 
 <p><b>Como Acessar:</b></p>
@@ -34,6 +36,9 @@ Este é um software de votação digital desenvolvido para facilitar eleições 
 <p>Clique em OK.</p>
 
 <h3>Funcionalidades do Painel:</h3>
+
+<img width="1341" height="664" alt="image" src="https://github.com/user-attachments/assets/e66c32e5-399c-47fa-b466-3731e4a8c17b" />
+
 
 <h3>1. Aba "Geral & Modo"</h3>
 
